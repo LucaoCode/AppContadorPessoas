@@ -23,3 +23,7 @@ Um aplicativo Flutter simples para contar pessoas, ideal para controle de acesso
 1. Certifique-se de ter o **Flutter** instalado:
    ```bash
    flutter --version
+
+## 📦 Responsável
+
+1. Lucas Lima Campos
